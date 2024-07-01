@@ -1,6 +1,3 @@
-#########
-#NOTEPAD#
-#########
 from tkinter import *
 from tkinter.ttk import *
 from tkinter.scrolledtext import ScrolledText
